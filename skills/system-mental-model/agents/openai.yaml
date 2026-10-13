@@ -1,0 +1,4 @@
+interface:
+  display_name: "系统心智模型"
+  short_description: "从业务链路理解系统，用失败场景与真实证据检验判断，保留学习者亲自操作的边界"
+  default_prompt: "使用 $system-mental-model，从一条具体链路帮我理解这个系统，并在我的时间范围内检查理解。"
